@@ -9,9 +9,9 @@ traffic systems.
 ## 🚀 What I build
 
 - **Conversational AI** — chatbots powered by LLMs and LangChain
-- **Computer Vision** — image generation bots (PicBot)
+- **Computer Vision** — AI-driven traffic signal control
 - **Machine Learning** — regression, clustering, classification models
-- **Agentic Systems** — AI-driven traffic signal control
+- **Agentic Systems** — image generation bots (PicBot)
 
 ---
 
